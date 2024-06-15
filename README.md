@@ -2,8 +2,6 @@
 LOAN APPROVAL PREDICTION USING MACHINE LEARNING
 
 
-# LOAN-APPROVAL-PREDICTION
-Machine Learning Project, Linear Regression 
 
 ```markdown
 # Bank Loan Prediction with Linear Regression
